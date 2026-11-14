@@ -8,7 +8,7 @@ I made it to add some life to a small Junkbot, made from an old shaver and an um
 
 ## Build guide and video
 
-- Step-by-step build guide on Instructables: not available yet.
+- Step-by-step build guide on Instructables: [Light Sensitive Junkbot](https://www.instructables.com/Light-Sensitive-Junkbot/). The guide shows the first version of this circuit, on prototype board, inside the Junkbot. This repository has the PCB version.
 - Video on YouTube: [LED Chaser](https://www.youtube.com/shorts/1Rffqpa6rq4)
 
 ## What you need
